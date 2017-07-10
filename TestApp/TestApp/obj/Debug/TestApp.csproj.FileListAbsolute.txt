@@ -6,3 +6,11 @@ C:\Users\Developpement-Kimo\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\T
 C:\Users\Developpement-Kimo\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
 C:\Users\Developpement-Kimo\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Users\Developpement-Kimo\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Mohamed\Documents\GitHub\zakaria\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
